@@ -12,7 +12,6 @@
             </a>
         </div>
     </div>
-    <img src="./Image/pfp.jpg" display: flex alt="Profile Image" style="width: 250px; margin-left: 20px; display: flex; align=right">
 </div>
 
 ---
