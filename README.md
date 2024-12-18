@@ -4,7 +4,7 @@
         <p>😃Hello, my name is Parsa</p>
         <p><strong>📚Computer Science Student</strong></p>
         <p>💻I am a novice programmer in the field of Backend.</p>
-        <p>🤖I am also interested in Discord bots and enjoy developing a Discord bot.</p> 
+        <p>🤖I am also interested in Discord bots and I enjoy developing new ones.</p> 
         <div style="display: flex; align-items: center;">
             <a href="https://discord.gg/yE8tQchmju" style="display: flex; align-items: center;">
                 <img src="./Image/discord.jpg" alt="Discord Icon" style="width: 50px; height: 50px; margin-right: 10px;">
