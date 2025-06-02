@@ -1,11 +1,11 @@
-<h1 align="center">Hey 👋 I'm Parsa</h1>
+<h1 align="center" style="color:#A259FF;">Hey 👋 I'm Parsa</h1>
 
 <p align="center">
   💻 Aspiring Backend Developer | 🎓 CS Student | 🤖 Discord Bot Maker  
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F500&center=true&vCenter=true&width=460&lines=Python+%7C+Django+%7C+Celery+%7C+DRF;Discord+Bots+with+discord.py+%2F+qb.py;Learning+Docker%2C+PHP+%26+Laravel;Always+Learning+%F0%9F%94%A5+Always+Building" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A259FF&center=true&vCenter=true&width=460&lines=Python+%7C+Django+%7C+Celery+%7C+DRF;Discord+Bots+with+discord.py;Learning+Docker%2C+PHP+%26+Laravel;Always+Learning+%F0%9F%94%A5+Always+Building" />
 </p>
 
 ---
@@ -24,28 +24,29 @@
 
 ### 💬 Languages & Frameworks
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Python-6F42C1?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-3C1361?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-7D3C98?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-8E44AD?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ### 🔧 Tools & Technologies
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/qb.py-EF476F?style=for-the-badge&logo=python&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Celery-3E7D8E?style=for-the-badge&logo=celery&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/DRF-232E3C?style=for-the-badge&logo=django&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Git-6F42C1?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/discord.py-9B59B6?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/qb.py-BE4BDB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Celery-5B2C6F?style=for-the-badge&logo=celery&logoColor=white" />
+  <img src="https://img.shields.io/badge/DRF-4A235A?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
 ### 🧰 Will learn This Year
 <p align="center">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="28" />
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="28" />
-    <img src="https://img.shields.io/badge/Laravel-EF4135?style=for-the-badge&logo=laravel&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Docker-3B3B98?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-6C3483?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-8E44AD?style=for-the-badge&logo=laravel&logoColor=white" />
 </p>
+
 ---
 
 ## 📊 GitHub Stats
@@ -61,7 +62,7 @@
 
 <p align="center">
   <a href="https://discord.gg/yE8tQchmju">
-    <img src="https://img.shields.io/badge/Join%20My%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Join%20My%20Discord-8E44AD?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
@@ -83,7 +84,7 @@
 ## 🧩 Fun Fact
 
 <p align="center">
-  I automate my tasks with <strong>Celery</strong> and automate my fun with <strong>qb.py</strong> 😄
+  I automate my tasks with <strong style="color:#A259FF;">Celery</strong> and automate my fun with <strong style="color:#A259FF;">qb.py</strong> 😄
 </p>
 
 ---
