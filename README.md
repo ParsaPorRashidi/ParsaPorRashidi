@@ -48,13 +48,13 @@ Advanced asynchronous bot system using discord.py & background workers.
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN" target="_blank">
+<a href="https://www.linkedin.com/in/parsa-pourrashidi-822115392/" target="_blank">
   <img src="https://skills.syvixor.com/api/icons?i=linkedin" />
 </a>
-<a href="YOUR_LINKEDIN" target="_blank">
+<a href="https://t.me/Mr_calx" target="_blank">
   <img src="https://skills.syvixor.com/api/icons?i=telegram" />
 </a>
-<a href="YOUR_LINKEDIN" target="_blank">
+<a href="https://www.instagram.com/parsa.pourrashidi?igsh=cnI5dDRnYW42cHhx" target="_blank">
   <img src="https://skills.syvixor.com/api/icons?i=instagram" />
 </a>
 
@@ -72,3 +72,4 @@ Advanced asynchronous bot system using discord.py & background workers.
 
 
 ---
+
