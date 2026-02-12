@@ -1,10 +1,6 @@
 # Hello There , I'm Parsa Pourrashidi 😃
 
-----
-
-## 🧠 ABOUT ME
    🏡 Based in Tabriz | Backend Developer 
-
 <p align="center">
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
 </p>
@@ -69,9 +65,10 @@ Advanced asynchronous bot system using discord.py & background workers.
 <div align="center">
 
 <a href="https://back-blaze.ir" target="_blank">
-  <img src="image/backblaze.png" height="48" style="border-radius:16px;"/>
+  <img src="https://raw.githubusercontent.com/ParsaPorRashidi/ParsaPorRashidi/main/Image/BackBlaze.png" height="48" style="border-radius=16px" />
 </a>
 
 </div>
+
 
 ---
