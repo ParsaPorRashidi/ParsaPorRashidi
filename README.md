@@ -19,8 +19,7 @@
 
 <div align="center">
 
-[![Skills](https://skills.syvixor.com/api/icons?i=python,django,drf,postman,mysql,git,github)](https://github.com/syvixor/skills-icons)
-[![Skills2](https://skills.syvixor.com/api/icons?i=xubuntu,celery,discord,html,css,docker,pycharm)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?perline=7&i=python,django,drf,postman,mysql,postgresql,git,github,xubuntu,celery,discord,html,css,docker,pycharm)](https://github.com/syvixor/skills-icons)
 
 </div>
 
@@ -28,7 +27,7 @@
 ## 🤖 Learning
 <div align="center">
 
-[![Skills3](https://skills.syvixor.com/api/icons?i=rabbitmq,n8n,postgresql)](https://github.com/syvixor/skills-icons)
+[![Skills3](https://skills.syvixor.com/api/icons?i=rabbitmq,n8n,nginx)](https://github.com/syvixor/skills-icons)
 
 </div>
 
@@ -72,4 +71,5 @@ Advanced asynchronous bot system using discord.py & background workers.
 
 
 ---
+
 
